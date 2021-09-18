@@ -1,0 +1,61 @@
+body{
+  text-align: center;
+}
+#title{
+  font-size: 80px;
+  font-family: cursive;
+  color: green;
+}
+#text1{
+  font-size: 20px;
+  font-family: arial;
+  color: green;
+}
+#img2{
+  margin-top: 100px;
+}
+#text2{
+  font-size: 20px;
+  font-family: arial;
+  color: green;
+}
+#title2{
+  font-size: 80px;
+  font-family: cursive;
+  color: green;
+}
+#text3{
+  font-size: 20px;
+  font-family: arial;
+  color: green;
+}
+#title3{
+  font-size: 80px;
+  font-family: cursive;
+  color: green;
+}
+#text4{
+  font-size: 20px;
+  font-family: arial;
+  color: green;
+}
+.menu{
+  list-style: none;
+  font-family: cursive;
+  font-size:20px;
+  text-align: center;
+  color: green;
+  background-color: white;
+  border-radius:12px;
+  float: right;
+  top:30px;
+  right:30px;
+  cursor: pointer;
+  position: sticky;
+}
+.img{
+  cursor:none;
+}
+.txt{
+  
+}
